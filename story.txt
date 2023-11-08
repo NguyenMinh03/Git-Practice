@@ -94,8 +94,6 @@ And they hear a bus pass, and they talk about octopi.
 
 Bob will compose the music for their wedding, held in a field. It will be the music the octopus wrote. It doesn’t matter whether it was good or bad. Who are we to judge the music of an octopus? Maybe among octopi, it’s as beautiful as anything in the universe.
 
-<<<<<<< HEAD
 The End
-=======
-                                         The End
->>>>>>> 728f4c3fc732d45b5b97006fd411fda94b27f12b
+
+
